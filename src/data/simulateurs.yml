@@ -1,0 +1,18 @@
+simulateursJS:
+  - nom: PERP
+    link: http://www.patrimoine.com/CLIENTS/BUSINESSCOM/perp/index.html
+  - nom: Madelin
+    link: http://www.patrimoine.com/CLIENTS/BUSINESSCOM/madelin/index.html
+  - nom: Crédit
+    link: http://www.patrimoine.com/CLIENTS/BUSINESSCOM/credit/index.html
+  - nom: Succession
+    link: http://www.patrimoine.com/CLIENTS/BUSINESSCOM/succession/index.html
+simulateursBolc:
+simulateursApplet:
+applicationWeb:
+  - nom: Simulateur Bilan Social BDDF
+    link: http://bddfpreprod.hbgt.infoclip.fr:8080/simBilanSocial/index.html#connect
+  - nom: Simulateur Bilan Social Cardif
+    link: http://cardifpreprod.hbgt.infoclip.fr:8080/SimBilanSocial/index.html
+  - nom: Simulateur Retraite
+    link: http://tomcat.patrimoine.com/eRetraite/RetraiteServlet
