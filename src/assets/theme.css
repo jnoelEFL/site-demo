@@ -21,3 +21,14 @@ body {
   background: none repeat scroll 0% 0% #1B5795;
   color: #fff;
 }
+
+.navbar .brand {
+  max-height: 40px;
+  overflow: visible;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.navbar a.navbar-brand {padding: 9px 15px 8px; }
+.navbar-brand > img {
+  display: inline;
+}

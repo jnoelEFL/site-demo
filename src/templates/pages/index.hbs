@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Simulateurs
 heading: 'Yo, Assemble!'
 lead: Welcome to my blog!
 ---
@@ -60,10 +60,10 @@ lead: Welcome to my blog!
     </div>
   </div>
   <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingTwo">
+    <div class="panel-heading" role="tab" id="headingFour">
       <h4 class="panel-title">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-          Simulateurs light
+          Simulateurs Applet
         </a>
       </h4>
     </div>
@@ -75,6 +75,27 @@ lead: Welcome to my blog!
           <li><a href={{link}} target="_blank">{{nom}} <i class="glyphicon glyphicon-link"></i></a></li>
         {{/each}}
       </ul>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingFive">
+      <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          Exemples clients
+        </a>
+      </h4>
+    </div>
+    <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+      <div class="panel-body">
+        {{#each simulateursClients.client}}
+          {{nom}}
+          <ul>
+          {{#each simulateurs}}
+            <li><a href={{link}} target="_blank">{{nom}} <i class="glyphicon glyphicon-link"></i></a></li>
+          {{/each}}
+          </ul>
+        {{/each}}
       </div>
     </div>
   </div>

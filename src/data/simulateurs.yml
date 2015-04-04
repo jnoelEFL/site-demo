@@ -8,7 +8,11 @@ simulateursJS:
   - nom: Succession
     link: http://www.patrimoine.com/CLIENTS/BUSINESSCOM/succession/index.html
 simulateursBolc:
+  - nom: Barême kilométrique
+    link: http://www.patrimoine.com/simulateursjs/bk/index.html
 simulateursApplet:
+  - nom: Impôt
+    link: http://www.patrimoine.com/BW2PMT/Simulateurs/impot/impot.html
 applicationWeb:
   - nom: Simulateur Bilan Social BDDF
     link: http://bddfpreprod.hbgt.infoclip.fr:8080/simBilanSocial/index.html#connect
