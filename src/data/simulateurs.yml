@@ -6,7 +6,7 @@ simulateursJS:
   - nom: Crédit
     link: http://www.patrimoine.com/CLIENTS/BUSINESSCOM/credit/index.html
   - nom: Succession
-    link: http://www.patrimoine.com/CLIENTS/BUSINESSCOM/succession/index.html
+    link: http://www.patrimoine.com/simulateursjs/efl/succession/index.html
 simulateursBolc:
   - nom: Barême kilométrique
     link: http://www.patrimoine.com/simulateursjs/bk/index.html
